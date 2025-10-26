@@ -5,7 +5,7 @@ import { ProfileProvider } from "@/contexts/ProfileContext";
 import { AuthProvider } from "@/contexts/AuthContext";
 
 export const metadata: Metadata = {
-  title: "JR SOLIS - Portfolio",
+  title: "JM Solis - Portfolio",
   description: "Build your Web2 and Web3 portfolio",
   icons: {
     icon: '/favicon.png', // or '/favicon.ico'
